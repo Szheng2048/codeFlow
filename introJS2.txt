@@ -16,6 +16,8 @@ b = b + a; // Line 6
 
 // ... after line 5 executes?
 
-
+120
 
 // ... after line 6 executes?
+
+120
